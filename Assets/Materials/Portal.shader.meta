@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 650a1689daa50464b912fcd497cc6644
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _AnotherWorldTexture: {fileID: 2800000, guid: 611c5a7957bab184bbbd1b4a4f95d83b, type: 3}
+  - _AnotherWorldPortalColor: {fileID: 2800000, guid: 02ce411c2cdf87c4a94881091da15990, type: 3}
+  - _SurfaceDistortion: {fileID: 2800000, guid: 6fdebd28aa212a14c96d62beb2c42f3d, type: 3}
+  - _PortalColors: {fileID: 2800000, guid: e8dc8f881ab968c40892ebd6d848d839, type: 3}
+  - _SurfaceNoise: {fileID: 2800000, guid: 6fdebd28aa212a14c96d62beb2c42f3d, type: 3}
+  - _PortalFrame: {fileID: 2800000, guid: 6f203fda9091de94fb4bd3ce8b9951d5, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
